@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Newt0nXs
+- 👋 Hi, I’m @HARSHIT
 - 👀 I’m interested in learning new things in tehnology field.
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on 
